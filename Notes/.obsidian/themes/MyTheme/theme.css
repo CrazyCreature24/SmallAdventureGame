@@ -1,0 +1,21 @@
+
+
+.theme-dark {
+	--bold-weight: var(--font-bold);
+	--bold-color: #ffcc63;
+	--italic-color: #9ab4ff;
+
+	--gradient01: #fdfc96;
+	--gradient02: #e4f78f;
+	--gradient03: #bfef88;
+	--gradient04: #97e47e;
+	--gradient05: #79dc78;
+	--gradient06: #58d16e;
+}
+
+.cm-header-1, .markdown-preview-view h1 {color: var(--gradient01);}
+.cm-header-2, .markdown-preview-view h2 {color: var(--gradient02);}
+.cm-header-3, .markdown-preview-view h3 {color: var(--gradient03);}
+.cm-header-4, .markdown-preview-view h4 {color: var(--gradient04);}
+.cm-header-5, .markdown-preview-view h5 {color: var(--gradient05);}
+.cm-header-6, .markdown-preview-view h6 {color: var(--gradient06);}

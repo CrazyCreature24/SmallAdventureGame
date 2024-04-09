@@ -1,0 +1,142 @@
+{
+    "Objects": [
+        {
+            "Components": [
+                {
+                    "Position": [
+                        6.00002908706665,
+                        3.0149986743927,
+                        0.0
+                    ],
+                    "Rotation": [
+                        0.0,
+                        0.0,
+                        -9.663762284617405e-06
+                    ],
+                    "Scale": [
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Type": "TransformComponent"
+                },
+                {
+                    "Material": [
+                        "Bowser"
+                    ],
+                    "Mesh": [
+                        "Kart"
+                    ],
+                    "Type": "RenderComponent"
+                },
+                {
+                    "BodyType": 2,
+                    "Type": "PhysicsComponent"
+                }
+            ]
+        },
+        {
+            "Components": [
+                {
+                    "Position": [
+                        6.0,
+                        2.0,
+                        0.0
+                    ],
+                    "Rotation": [
+                        0.0,
+                        0.0,
+                        -0.0
+                    ],
+                    "Scale": [
+                        20.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Type": "TransformComponent"
+                },
+                {
+                    "Material": [
+                        "VertexColor"
+                    ],
+                    "Mesh": [
+                        "Square"
+                    ],
+                    "Type": "RenderComponent"
+                },
+                {
+                    "BodyType": 0,
+                    "Type": "PhysicsComponent"
+                }
+            ]
+        },
+        {
+            "Components": [
+                {
+                    "Position": [
+                        2.706014633178711,
+                        -1.7616034746170044,
+                        0.0
+                    ],
+                    "Rotation": [
+                        0.0,
+                        0.0,
+                        221.20819091796875
+                    ],
+                    "Scale": [
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Type": "TransformComponent"
+                },
+                {
+                    "Material": [
+                        "Die"
+                    ],
+                    "Mesh": [
+                        "Cube"
+                    ],
+                    "Type": "RenderComponent"
+                },
+                {
+                    "BodyType": 2,
+                    "Type": "PhysicsComponent"
+                }
+            ]
+        },
+        {
+            "Components": [
+                {
+                    "Position": [
+                        6.00002908706665,
+                        3.0149986743927,
+                        0.0
+                    ],
+                    "Rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "Scale": [
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Type": "TransformComponent"
+                },
+                {
+                    "AspectRatio": [
+                        1.2762376070022583
+                    ],
+                    "RelPosition": [
+                        0.0,
+                        0.0,
+                        -20.0
+                    ],
+                    "Type": "CameraComponent"
+                }
+            ]
+        }
+    ]
+}
